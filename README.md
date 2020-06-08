@@ -1,1 +1,1 @@
-# laravel-docker-EC
+# laravel-samurai
